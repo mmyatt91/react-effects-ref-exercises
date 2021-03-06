@@ -1,0 +1,27 @@
+.deck {
+    text-align: center;
+}
+  
+.deck-draw {
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin: 0 10px;
+}
+  
+.deck-draw:hover {
+    cursor: pointer;
+    background-color: #444;
+}
+  
+.deck-draw:active,
+.deck-draw:focus {
+    outline: none;
+}
+  
+.deck-card-area {
+    margin-top: 80px;
+}
+  
